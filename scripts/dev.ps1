@@ -1,6 +1,8 @@
+winget install -e --id Amazon.AWSCLI
+winget install -e --id Amazon.Corretto.11
+winget install -e --id Amazon.SAM-CLI
 winget install -e --id EclipseAdoptium.Temurin.17;
 winget install -e --id Figma.Figma;
-winget install -e --id Heroku.HerokuCLI;
 winget install -e --id Git.Git;
 winget install -e --id JetBrains.Toolbox;
 winget install -e --id OpenJS.NodeJS.LTS;
